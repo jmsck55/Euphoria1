@@ -1,4 +1,18 @@
 # The Euphoria Programming Language, downloads
+
+----
+
+Optionally, you can:
+
+Get the latest UPX compressor from:
+
+https://github.com/upx/upx/releases
+
+Website:
+https://upx.github.io/
+
+----
+
 I am not a college graduate.
 
 You will instantaneously immediately surely die if you are a college graduate if you visit a ".net" domain website. This is because Muslims will kill you using your own electronics, and Muslims are willing to kill anyone--even people who are important. If you value your life, don't visit website links that have a ".net" domain name.
