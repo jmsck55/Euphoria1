@@ -32,3 +32,10 @@ Always write data to the buffer and on-screen. If it ever is written off-screen 
 Sincerely,
 
 James Cook
+
+----
+
+OpenEuphoria's website
+https://openeuphoria.org/
+
+Where Euphoria v4.1 is still in active development.
