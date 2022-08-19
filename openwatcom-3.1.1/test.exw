@@ -1,0 +1,2 @@
+puts(1, "Test worked!\n")
+system("pause", 2)
