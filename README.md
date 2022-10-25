@@ -1,5 +1,9 @@
 # The Euphoria Programming Language, downloads
 
+Download links from:
+
+https://github.com/OpenEuphoria/euphoria/releases
+
 ----
 
 Optionally, you can:
