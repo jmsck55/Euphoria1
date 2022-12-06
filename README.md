@@ -40,6 +40,11 @@ James Cook
 ----
 
 OpenEuphoria's website
+
 https://openeuphoria.org/
 
 Where Euphoria v4.1 is still in active development.
+
+Phix is backwards compatible with Euphoria.
+
+http://phix.x10.mx
