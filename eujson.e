@@ -108,7 +108,20 @@ function parse_json_objects_and_arrays(sequence st)
 -- then go back and start at the top and process the content,
 -- when there are no more containers to process.
     --here.
-    
+    integer p = 1, flag
+    object x
+    while p <= length(st) do
+        x = st[p]
+        if integer(x) then
+            if x = ':' then
+                -- add to map
+                flag = 1
+            end if
+        else
+            -- do recursion
+        end if
+        p += 1
+    end while
     
     return {GET_SUCCESS, st}
 end function
