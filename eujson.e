@@ -1,9 +1,10 @@
 
 -- stringify(), parse()
+-- use "map()" for associative array
 
 namespace JSON
 
---include std/map.e
+include std/map.e
 include std/search.e
 public include std/get.e
 

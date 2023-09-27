@@ -15,8 +15,6 @@ sequence test = `
 "cars2":[["Ford"], ["BMW"], ["Fiat"]]
 }`
 
--- test = "{\"as\\\"df\"}"
-
 trace(1)
 
 object ob
